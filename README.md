@@ -1,8 +1,7 @@
 # queryprocessing
 
 **ADVANCING DNS QUERY PROCESSING AND SCALABILITY IN DISTRIBUTED SYSTEMS**
-**ENHANCING SCALABILITY WITH OPTIMIZED REPLICATION IN DISTRIBUTED ARCHITECTURES**
-* Author: Naveen Kanagalakshmi Murugan
+* Author: Kanagalakshmi Murugan
 * Published In : International Journal on Science and Technology (IJSAT)
 * Publication Date: 06-2022
 * E-ISSN: 2229-7677
