@@ -21,8 +21,8 @@ This paper investigates the replication time challenges in Viewstamped Replicati
 
 **Relevance & Real-World Impact**
 
-* **Kubernetes infrastructure optimization:**\
-    Enhances distributed key-value store performance by improving the write availability in distributed systems.
+* **DNS Query Optimization:**\
+    Enhancing DNS query efficiency and scalability to support high-performance distributed systems and ensure reliable name resolution at scale.
 * **Write availability Improvement:** \
     need to add here
 * **Academic Recognition :** \
