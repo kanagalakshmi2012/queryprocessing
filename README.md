@@ -2,9 +2,9 @@
 
 **ADVANCING DNS QUERY PROCESSING AND SCALABILITY IN DISTRIBUTED SYSTEMS**
 * Author: Kanagalakshmi Murugan
-* Published In : International Journal on Science and Technology (IJSAT)
-* Publication Date: 06-2022
-* E-ISSN: 2229-7677
+* Published In : International Journal of Innovative Research and Creative Technology (IJIRCT)
+* Publication Date: 02-2023
+* ISSN: 2454-5988
 * Impact Factor: 9.88
 * Link:
 
@@ -43,8 +43,8 @@ This paper investigates the replication time challenges in Viewstamped Replicati
 **Citation** \
 ADVANCING DNS QUERY PROCESSING AND SCALABILITY IN DISTRIBUTED SYSTEMS. \
 Kanagalakshmi Murugan \
-International Journal on Science and Technology \
-E-ISSN-2229-7677 \
+International Journal of Innovative Research and Creative Technology \
+ISSN-2454-5988 \
 License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
