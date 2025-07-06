@@ -32,16 +32,16 @@ This paper investigates the replication time challenges in Viewstamped Replicati
 
 **Experimental Results (Summary)**:
 
-  | Nodes | VR Replication Time (ms) | ZAB Replication Time (ms) | Improvement (%) |
-  |-------|--------------------------| --------------------------| ----------------|
-  | 3     | 6.0                      | 5.2                       | 13.3            |
-  | 5     | 8.1                      | 6.7                       | 17.3            |
-  | 7     | 10.5                     | 8.4                       | 20.0            |
-  | 9     | 13.0                     | 10.3                      | 20.8            |
-  | 11    | 15.6                     | 12.2                      | 21.8            |
+  | Nodes | BIND9 Throughput (Lakhs) | PowerDNS Throughput (Lakhs) | Improvement (%)  |
+  |-------|--------------------------| ----------------------------| -----------------|
+  | 3     | 4.5                      | 6                           | 33.33            |
+  | 5     | 7.5                      | 10.3                        | 37.33            |
+  | 7     | 10.5                     | 13.6                        | 29.52            |
+  | 9     | 13.5                     | 18.2                        | 34.81            |
+  | 11    | 16.5                     | 21.8                        | 32.12            |
 
 **Citation** \
-OPTIMIZING READ PERFORMANCE IN DISTRIBUTED systems USING Chrony Sync process. \
+ADVANCING DNS QUERY PROCESSING AND SCALABILITY IN DISTRIBUTED SYSTEMS. \
 Kanagalakshmi Murugan \
 International Journal on Science and Technology \
 E-ISSN-2229-7677 \
