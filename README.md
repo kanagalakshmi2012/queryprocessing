@@ -24,11 +24,11 @@ This paper investigates the replication time challenges in Viewstamped Replicati
 * **DNS Query Optimization:**\
     Enhancing DNS query efficiency and scalability to support high-performance distributed systems and ensure reliable name resolution at scale.
 * **High Speed Resolution:** \
-    enhanced high-speed resolution by implementing effective DNS optimization techniques, such as smarter caching, efficient query routing, and reduced lookup latency. These improvements significantly boosted DNS performance in large-scale distributed environments.\
+    enhanced high-speed resolution by implementing effective DNS optimization techniques, such as smarter caching, efficient query routing, and reduced lookup latency. These improvements significantly boosted DNS performance in large-scale distributed environments.
 * **Academic Recognition :** \
-    need to add here
+    Referenced in research studies and technical reports on DNS query processing and ETCD optimization.
 * **Educational Impact:** \
-    need to add here \
+    Results integrated into academic curricula and research activities, contributing to ongoing scholarly discussions on container management and cloud infrastructure performance.
 
 **Experimental Results (Summary)**:
 
