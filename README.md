@@ -5,7 +5,7 @@
 * Published In : International Journal of Innovative Research and Creative Technology (IJIRCT)
 * Publication Date: 02-2023
 * ISSN: 2454-5988
-* Impact Factor: 9.88
+* Impact Factor: 9.142
 * Link:
 
 **Abstract:**
