@@ -23,7 +23,7 @@ This paper investigates the replication time challenges in Viewstamped Replicati
 
 * **DNS Query Optimization:**\
     Enhancing DNS query efficiency and scalability to support high-performance distributed systems and ensure reliable name resolution at scale.
-* **Write availability Improvement:** \
+* **High Speed Resolution:** \
     need to add here
 * **Academic Recognition :** \
     need to add here
