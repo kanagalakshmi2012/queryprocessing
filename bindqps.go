@@ -4,6 +4,7 @@ import (
 	"net"
 	"time"
 	"sync"
+
 )
 const (
 	targetDNS  = "127.0.0.1:53"
